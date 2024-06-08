@@ -1,0 +1,19 @@
+What are the three ways to declare variables in JavaScript?
+
+Which keyword(s) allow(s) reassignment of values to variables after declaration?
+
+What keyword is used for variables that cannot be reassigned after declaration?
+
+What happens if you try to reassign a value to a variable declared with const?
+
+Explain the difference between reassigning a variable and modifying a property of an object stored in a const variable.
+
+Write a JavaScript code snippet demonstrating the reassignment of a value to a variable declared with let.
+
+How would you modify a property of an object stored in a const variable without reassigning the variable itself?
+
+Why might it be beneficial to use const instead of let for variables that won't be reassigned?
+
+In what scenarios would you typically choose var over let or const?
+
+Write a JavaScript code snippet that illustrates both reassigning a variable declared with var and modifying a property of an object stored in a const variable.
